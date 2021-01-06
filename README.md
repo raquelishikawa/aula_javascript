@@ -1,6 +1,6 @@
 ## aula_javascript
 ### Introdução ao JavaScript
-- <button type="">
+- button type
 - onmouseover
 - onmouserout
 - this
