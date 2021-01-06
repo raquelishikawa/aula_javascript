@@ -1,6 +1,8 @@
 ## aula_javascript
-###Introdução ao JavaScript
-- Botão
-- Onclick
-- Onmouse
-Entre outros.
+### Introdução ao JavaScript
+- <button type="">
+- onmouseover
+- onmouserout
+- this
+- option
+  
